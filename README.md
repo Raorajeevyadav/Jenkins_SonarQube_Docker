@@ -1,2 +1,2 @@
 This is simple CICD pipeline project of deploying a project through Jenkins to docker via checking SonarQube code quality test.
-Edit this page for commit.
+this page for commit.
